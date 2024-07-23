@@ -1,27 +1,30 @@
 <!--
 **cluizdes/cluizdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2 align="center"> Olá, eu sou Cássio e este é o meu Github!</h2>
+# Olá, eu sou Cássio e este é o meu Github
 
-### Sobre mim
+## Sobre mim
+
 ---
+
 - 🎓Sou formado em Sistemas de Informação e possuo MBA em Engenharia de Dados e Ciência de Dados
 - 💻Trabalho como Engenheiro de dados
 - 📍Sou de Sabará/MG🔺 - Brasil
 <!-- Badges Shields - https://shields.io/badges -->
 <p> Aqui é onde vc pode me encontrar
-	<br>
-	<br>
+ <br>
+ <br>
   <a href="https://www.linkedin.com/in/cassiolsouza">
     <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-LinkedIn?style=social&logo=linkedin&logoColor=blue&labelColor=white&color=white">
   </a>
-	<br>
+ <br>
   <a href="https://linktr.ee/cassio_souza">
     <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-Linktree?style=social&logo=linktree&logoColor=green">
   </a>
 </p>
 
 ### TechSpecs
+
 ---
 ![Python](https://img.shields.io/badge/-Python-black?style=round-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=linux)
