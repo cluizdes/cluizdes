@@ -1,31 +1,36 @@
-<!--
-**cluizdes/cluizdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-# Olá, eu sou Cássio e este é o meu Github
+<html>
+  <h1>
+    <p align="center">
+      <strong>Olá, eu sou Cássio e este é o meu Github</strong>
+    </p>
+  </h1>
+</html>
 
-## Sobre mim
-
----
+## Sobre mim ##
 
 - 🎓Sou formado em Sistemas de Informação e possuo MBA em Engenharia de Dados e Ciência de Dados
 - 💻Trabalho como Engenheiro de dados
 - 📍Sou de Sabará/MG🔺 - Brasil
+- 📚Estou sempre estudando e aprendendo novas tecnologias
+
 <!-- Badges Shields - https://shields.io/badges -->
-<p> Aqui é onde vc pode me encontrar
- <br>
- <br>
-  <a href="https://www.linkedin.com/in/cassiolsouza">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-LinkedIn?style=social&logo=linkedin&logoColor=blue&labelColor=white&color=white">
-  </a>
- <br>
-  <a href="https://linktr.ee/cassio_souza">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-Linktree?style=social&logo=linktree&logoColor=green">
-  </a>
-</p>
 
-### TechSpecs
+<html>
+  <p> Aqui é onde vc pode me encontrar
+      <br>
+      <br>
+      <a href="https://www.linkedin.com/in/cassiolsouza">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-LinkedIn?style=social&logo=linkedin&logoColor=blue&labelColor=white&color=white">
+      </a>
+        <br>
+    <a href="https://linktr.ee/cassio_souza">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-Linktree?style=social&logo=linktree&logoColor=green">
+   </a>
+  </p>
+</html>
 
----
+## TechSpecs #
+
 ![Python](https://img.shields.io/badge/-Python-black?style=round-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=linux)
 ![SQL](https://img.shields.io/badge/-MySql-black?style=round-square&logo=mysql&logoColor=blue)
@@ -47,16 +52,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=round-square&logo=git)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=round-square&logo=json)
 ![YAML](https://img.shields.io/badge/-YAML-black?style=round-square&logo=yaml&logoColor=purple)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
