@@ -11,12 +11,12 @@
 - 🎓Sou formado em Sistemas de Informação e possuo MBA em Engenharia de Dados e Ciência de Dados
 - 💻Trabalho como Engenheiro de dados
 - 📍Sou de Sabará/MG🔺 - Brasil
-- 📚Estou sempre estudando e aprendendo novas tecnologias
+- 📚Estou sempre estudando e aprendendo alguma coisa nova
 
 <!-- Badges Shields - https://shields.io/badges -->
 
 <html>
-  <p> Aqui é onde vc pode me encontrar
+  <p> Nos links abaixo é onde vc pode me encontrar
       <br>
       <br>
       <a href="https://www.linkedin.com/in/cassiolsouza">
@@ -29,7 +29,7 @@
   </p>
 </html>
 
-## Tecnologias familiriares #
+## Tecnologias familiares #
 
 ![Python](https://img.shields.io/badge/-Python-black?style=round-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=linux)
@@ -60,6 +60,6 @@
 - 🎮Jogando videogame
 - 📷Fotografando e editando fotos
 - 📚Lendo HQ, livros de fantasia, ficção cientifica, livros de psicologia
-- 🎧Ouvindo música
+- 🎧Ouvindo música e podcast
 
   ![Spotify](https://img.shields.io/badge/-Spotify-black?style=social&logo=spotify&logoColor=green&size=auto)
