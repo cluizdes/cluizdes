@@ -1,9 +1,9 @@
 <html>
-  <h1>
+  <h2>
     <p align="center">
       <strong>Olá, eu sou Cássio e este é o meu Github</strong>
     </p>
-  </h1>
+  </h2>
 </html>
 
 ## Sobre mim ##
@@ -29,7 +29,7 @@
   </p>
 </html>
 
-## TechSpecs #
+## Tecnologias familiriares #
 
 ![Python](https://img.shields.io/badge/-Python-black?style=round-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=round-square&logo=linux)
@@ -52,3 +52,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=round-square&logo=git)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=round-square&logo=json)
 ![YAML](https://img.shields.io/badge/-YAML-black?style=round-square&logo=yaml&logoColor=purple)
+
+---
+
+### Quando não estou trabalhando ###
+
+- 🎮Jogando videogame
+- 📷Fotografando e editando fotos
+- 📚Lendo HQ, livros de fantasia, ficção cientifica, livros de psicologia
+- 🎧Ouvindo música
+
+  ![Spotify](https://img.shields.io/badge/-Spotify-black?style=social&logo=spotify&logoColor=green&size=auto)
