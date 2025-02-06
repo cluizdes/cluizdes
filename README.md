@@ -9,12 +9,11 @@
 ## Sobre mim ##
 
 - 🎓Sou formado em Sistemas de Informação e possuo MBA em Engenharia de Dados e Ciência de Dados
-- 💻Trabalho como Engenheiro de dados no @grupoboticario
-- 📍Sou de Sabará/MG🔺 - Brasil
+- 💻Trabalho como Engenheiro de dados no Grupo Boticario
+- 📍Sou de Sabará/MG🔺- Brasil
 - 📚Estou sempre estudando e aprendendo alguma coisa nova
 
 <!-- Badges Shields - https://shields.io/badges -->
-
 <html>
   <p> Nos links abaixo é onde vc pode me encontrar
       <br>
@@ -28,7 +27,6 @@
    </a>
   </p>
 </html>
-
 ## Tecnologias familiares #
 
 ![Python](https://img.shields.io/badge/-Python-black?style=round-square&logo=python)
