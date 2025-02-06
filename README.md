@@ -9,7 +9,7 @@
 ## Sobre mim ##
 
 - 🎓Sou formado em Sistemas de Informação e possuo MBA em Engenharia de Dados e Ciência de Dados
-- 💻Trabalho como Engenheiro de dados
+- 💻Trabalho como Engenheiro de dados no @grupoboticario
 - 📍Sou de Sabará/MG🔺 - Brasil
 - 📚Estou sempre estudando e aprendendo alguma coisa nova
 
